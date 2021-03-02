@@ -5,3 +5,5 @@ It is collabrative tool which helps multiple users to work on a single project w
 Git Init- Initalize local to GIT
 
 Thanks to interval
+
+git commit and git add
